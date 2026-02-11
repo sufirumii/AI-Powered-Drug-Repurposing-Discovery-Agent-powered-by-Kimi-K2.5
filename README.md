@@ -1,4 +1,4 @@
-# AI Drug Repurposing Discovery Agent Prototype powered by Kimi K2.5 by MoonShotAI
+# AI Drug Repurposing Discovery Agent powered by Kimi K2.5 by MoonShotAI
 
 Single-file HTML web app that uses AI to suggest FDA-approved drugs for potential repurposing in rare and orphan diseases.
 
